@@ -1,7 +1,7 @@
 ---
 date: '2026-06-29T17:50:48+03:00'
 draft: false
-title: 'Why'
+title: 'Why does it exist?'
 ---
 
-This is a first post.
+It's an attempt to bring joy back to daily engineering while keeping track of everyday problems.
